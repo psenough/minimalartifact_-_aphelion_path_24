@@ -1,0 +1,3 @@
+cd .
+http-server
+pause
